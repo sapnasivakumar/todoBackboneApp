@@ -1,0 +1,21 @@
+{
+  "name": "lib",
+  "version": "0.0.0",
+  "authors": [
+    "Sapna Sivakumar <sivakumarsapna@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.3.3",
+    "backbone.localStorage": "backbone.localstorage#~1.1.16",
+    "jquery": "~3.1.1",
+    "underscore": "~1.8.3"
+  }
+}
